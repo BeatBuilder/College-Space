@@ -22,32 +22,3 @@ Manage student records, faculty information, and course catalogs.
 Generate reports and analytics.
 User Authentication and Authorization:
 Secure user authentication and role-based access control.
-Project Structure
-
-CollegeSpace/
-├── public/ 
-│   ├── css/ 
-│   │   ├── style.css 
-│   │   ├── bootstrap.min.css 
-│   │   └── ...
-│   ├── js/ 
-│   │   ├── script.js 
-│   │   ├── bootstrap.min.js 
-│   │   └── ...
-│   ├── images/ 
-│   │   └── ...
-│   ├── index.php 
-│   ├── student_portal.php 
-│   ├── faculty_dashboard.php 
-│   ├── admin_panel.php 
-│   └── ...
-├── includes/ 
-│   ├── database.php 
-│   ├── functions.php 
-│   ├── user_auth.php 
-│   └── ...
-├── config/ 
-│   └── config.php 
-├── database/ 
-│   └── college_database.sql 
-└── README.md
