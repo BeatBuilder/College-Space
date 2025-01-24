@@ -1,4 +1,5 @@
-# College-Space
+College Space
+
 This repository contains the source code for the College Space website, a comprehensive web application designed to manage various aspects of college operations.
 
 Project Overview
@@ -49,4 +50,4 @@ CollegeSpace/
 │   └── config.php 
 ├── database/ 
 │   └── college_database.sql 
-└── README.md 
+└── README.md
